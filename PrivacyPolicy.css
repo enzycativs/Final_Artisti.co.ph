@@ -1,0 +1,153 @@
+.upperpart1 {
+  position: absolute;
+  top: -159px;
+  left: -105px;
+  background-color: var(--color-lightgray-200);
+  filter: blur(85px);
+  width: 1651px;
+  height: 914px;
+}
+.btnlogin1 {
+  left: 1240px;
+  cursor: pointer;
+}
+.btnabout1,
+.btnlogin1,
+.btnregister1 {
+  position: absolute;
+  top: 44px;
+}
+.btnregister1 {
+  left: 1122px;
+  cursor: pointer;
+}
+.btnabout1 {
+  left: 1030px;
+}
+.lowerpart1 {
+  position: absolute;
+  bottom: -76px;
+  left: -49px;
+  background-color: var(--color-lightgray-200);
+  width: 1538px;
+  height: 1035px;
+}
+.image1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1755px;
+  height: 1586px;
+  object-fit: cover;
+}
+.every-canvass-is1 {
+  position: absolute;
+  top: 135px;
+  left: 0;
+}
+.a0f1baed2deef692f8b1e0ff257aa0-icon1 {
+  position: absolute;
+  top: 19px;
+  left: 103px;
+  width: 80px;
+  height: 99px;
+  object-fit: cover;
+}
+.artistico1 {
+  position: absolute;
+  top: 60px;
+  left: 202px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-shrikhand);
+}
+.image2-icon1 {
+  position: absolute;
+  top: 0;
+  left: 79px;
+  border-radius: var(--br-4xs);
+  width: 121px;
+  height: 135px;
+  object-fit: cover;
+}
+.upperlogo1 {
+  position: absolute;
+  top: 90px;
+  left: 157px;
+  width: 563px;
+  height: 160px;
+  font-family: var(--font-syncopate);
+}
+.btnartistico1 {
+  position: absolute;
+  top: 32px;
+  left: 130px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-shrikhand);
+  cursor: pointer;
+}
+.span1 {
+  color: var(--color-black);
+}
+.all-about-the-container1 {
+  position: absolute;
+  top: 1311px;
+  left: 81px;
+  font-size: var(--font-size-45xl);
+  line-height: 55px;
+  font-family: var(--font-shrikhand);
+  color: var(--color-white);
+}
+.privacy-policy2 {
+  position: absolute;
+  top: 1413px;
+  left: 1187px;
+  font-size: var(--font-size-xl);
+  cursor: pointer;
+}
+.socialicons1 {
+  position: absolute;
+  top: 1311px;
+  left: 1207px;
+  width: 133px;
+  height: 51px;
+  object-fit: cover;
+}
+.terms-conditions1 {
+  position: absolute;
+  top: 1413px;
+  left: 941px;
+  font-size: var(--font-size-xl);
+  cursor: pointer;
+}
+.privacy-policy4 {
+  font-family: var(--font-inter);
+}
+.blank-line,
+.span2 {
+  font-weight: 500;
+}
+.blank-line {
+  margin: 0;
+}
+.information-we-collect {
+  margin: 0;
+}
+.privacy-policy-thank-container {
+  position: absolute;
+  top: 274px;
+  left: 128px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 1180px;
+}
+.privacy-policy1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1551px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
